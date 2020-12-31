@@ -1,0 +1,54 @@
+﻿Nationality,persons,income,Zone
+Brunei,0,1564,East  Asia
+Cambodia,257,73347,East  Asia
+Indonesia,6,63671,East  Asia
+Laos,7,149617,East  Asia
+Malaysia,14,386553,East  Asia
+Myanmar,1,30159,East  Asia
+Philippines,11,46172,East  Asia
+Singapore,64,105293,East  Asia
+Vietnam,16,80492,East  Asia
+China,914,798913,East  Asia
+Hong Kong,52,78574,East  Asia
+Japan,87,154870,East  Asia
+Korea,96,155728,East  Asia
+Taiwan,54,65558,East  Asia
+East Asia Others,4,7883,East  Asia
+Austria,43,10702,Europe
+Belgium,11,11015,Europe
+Denmark,50,12114,Europe
+Finland,55,13424,Europe
+France,82,62159,Europe
+Germany,233,91612,Europe
+Italy,10,23704,Europe
+Netherlands,30,20880,Europe
+Norway,41,11120,Europe
+Russia,9,183500,Europe
+Spain,13,18611,Europe
+Sweden,94,22488,Europe
+Switzerland,106,19684,Europe
+United  Kingdom,163,89548,Europe
+East  Europe,22,67155,Europe
+Europe Others,16,25844,Europe
+Argentina,0,2852,The  Americas
+Brazil,2,9438,The  Americas
+Canada,73,27483,The  Americas
+USA,133,121407,The  Americas
+The  Americas Others,6,9181,The  Americas
+Bangladesh,1,11200,South  Asia
+India,20,173337,South  Asia
+Nepal,0,4459,South  Asia
+Pakistan,6,7005,South  Asia
+Sri  Lanka,0,5891,South  Asia
+South Asia Others,2,4385,South  Asia
+Australia,76,57264,Oceania
+New  Zealand,19,8472,Oceania
+Oceania Others,2,521,Oceania
+Egypt,4,2203,Middle  East
+Israel,11,11510,Middle  East
+Kuwait,93,4668,Middle  East
+Saudi  Arabia,3,1702,Middle  East
+U.A.E.,23,8336,Middle  East
+Middle East Others,14,17804,Middle  East
+S.Africa,3,6188,Africa
+Africa Others,13,9106,Africa
